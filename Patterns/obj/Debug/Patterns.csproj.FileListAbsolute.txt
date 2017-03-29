@@ -1,0 +1,17 @@
+C:\Users\Aliaksei_Parkhimovic\Documents\Visual Studio 2015\Projects\Patterns\Patterns\bin\Debug\Patterns.dll
+C:\Users\Aliaksei_Parkhimovic\Documents\Visual Studio 2015\Projects\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\Aliaksei_Parkhimovic\Documents\Visual Studio 2015\Projects\Patterns\Patterns\bin\Debug\nunit.framework.dll
+C:\Users\Aliaksei_Parkhimovic\Documents\Visual Studio 2015\Projects\Patterns\Patterns\bin\Debug\WebDriver.dll
+C:\Users\Aliaksei_Parkhimovic\Documents\Visual Studio 2015\Projects\Patterns\Patterns\bin\Debug\nunit.framework.xml
+C:\Users\Aliaksei_Parkhimovic\Documents\Visual Studio 2015\Projects\Patterns\Patterns\bin\Debug\WebDriver.xml
+C:\Users\Aliaksei_Parkhimovic\Documents\Visual Studio 2015\Projects\Patterns\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Users\Aliaksei_Parkhimovic\Documents\Visual Studio 2015\Projects\Patterns\Patterns\obj\Debug\Patterns.dll
+C:\Users\Aliaksei_Parkhimovic\Documents\Visual Studio 2015\Projects\Patterns\Patterns\obj\Debug\Patterns.pdb
+D:\c-sharp-lab\c-sharp-projects\Patterns\Patterns\bin\Debug\Patterns.dll
+D:\c-sharp-lab\c-sharp-projects\Patterns\Patterns\bin\Debug\Patterns.pdb
+D:\c-sharp-lab\c-sharp-projects\Patterns\Patterns\bin\Debug\nunit.framework.dll
+D:\c-sharp-lab\c-sharp-projects\Patterns\Patterns\bin\Debug\WebDriver.dll
+D:\c-sharp-lab\c-sharp-projects\Patterns\Patterns\bin\Debug\nunit.framework.xml
+D:\c-sharp-lab\c-sharp-projects\Patterns\Patterns\bin\Debug\WebDriver.xml
+D:\c-sharp-lab\c-sharp-projects\Patterns\Patterns\obj\Debug\Patterns.dll
+D:\c-sharp-lab\c-sharp-projects\Patterns\Patterns\obj\Debug\Patterns.pdb
